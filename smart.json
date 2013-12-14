@@ -1,7 +1,7 @@
 {
   "packages": {
     "Meteor-Bootstrap-Components": {
-      "path": "/Users/jake/dev/Meteor-Bootstrap-Components"
+      "git": "https://github.com/silentwarrior/Meteor-Bootstrap-Components.git"
     }
   }
 }
